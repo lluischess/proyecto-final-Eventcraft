@@ -1,0 +1,30 @@
+[
+	{
+		"nombre": "Tenis",
+		"descripcion": "Partido de tenis con mis amigos",
+		"aficion": "Padel",
+		"Usuario": "Lluis",
+		"Ubi": "Barcelona"
+	},	
+	{
+		"nombre": "paintball",
+		"descripcion": "Partida de paintball con mis amigos",
+		"aficion": "Tenis",
+		"Usuario": "Eli",
+		"Ubi": "Barcelona"
+	},
+	{
+		"nombre": "futbol",
+		"descripcion": "partido de competicion",
+		"aficion": "Padel",
+		"Usuario": "Dani",
+		"Ubi": "Barcelona"
+	},
+	{
+		"nombre": "padel",
+		"descripcion": "partido en el clup bcn",
+		"aficion": "Padel",
+		"Usuario": "Raul",
+		"Ubi": "Madrid"
+	}
+]

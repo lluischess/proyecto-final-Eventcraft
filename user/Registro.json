@@ -1,0 +1,20 @@
+{
+    "Registro": [
+        {
+            "id": 1,
+            "post_id": 2,
+            "name": "Javi",
+            "email": "j_alonso_78@hotmail.com",
+            "body": "Esto es un post",
+            "created_at": "2017-12-29"    
+        },
+        {
+             "id": 2,
+            "post_id": 1,
+            "name": "Pepe",
+            "email": "pepe@gmail.com",
+            "body": "Otro post de pepe",
+            "created_at": "2017-12-29" 
+        }
+    ]
+}
