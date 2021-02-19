@@ -14,5 +14,5 @@ Instrucciones web Eventcraft:
 
 2)	Web en local lista para probar.
 
-3)	Una última aclaración, en la base de datos la tabla (users) almacena solo el nombre del login del usuario y cada vez que el usuario participe en un evento se agregara el mismo nombre con el id del evento. (No me ha dado tiempo de controlar bien esta parte en tan poco tiempo).
+3)	Una última aclaración, en la base de datos la tabla (users) almacena solo el nombre del login del usuario y cada vez que el usuario participe en un evento se agregara el mismo nombre con el id del evento.
 
