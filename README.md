@@ -1,5 +1,5 @@
 # proyecto-final-Eventcraft
-Proyecto web de final de curso. Tecnologías usadas: Html5 + Css3 + Php + Jquary + Ajax + Bootstrap + Mysql
+Proyecto web que te permite gestion eventos por usuario usando las siguientes Tecnologías: Html5, Css3, Php, Jquary, Ajax, Bootstrap y Mysql
 
 Instrucciones web Eventcraft:
 
